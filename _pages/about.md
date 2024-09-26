@@ -14,7 +14,7 @@ redirect_from:
 Hongdao Meng is currently a first year graduate student in the NYU Tandon School of Engineering.
 His main research interests include federated learning, multi-view multi-label learning, LLMs, RAG, etc.
 You can find his CV in the CV module. 
-Meanwhile, he is also a photographer, you can find his works in Portfolio module or his [Instagram](https://www.instagram.com/mycrofthd/)
+Meanwhile, he is also a photographer, you can find his works in Portfolio module or his **Instagram**: [Instagram Profile](https://www.instagram.com/mycrofthd/)
 
 ---
 ## Education
