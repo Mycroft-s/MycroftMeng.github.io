@@ -46,7 +46,7 @@ Meanwhile, he is also a photographer, you can find his works in Portfolio module
 
 ## Publications
 - *Federated Multi-view Multi-Label Classification*, IEEE TBD (2023, Major revision).
-- *EpiSS Study on Salt Sensitivity*, BMC Genomics (2024, Accepted).
+- *EpiSS Study on Salt Sensitivity*, BMC Genomics (2024 Jun 18;25(1):612. doi: 10.1186/s12864-024-10409-9).
 - More publications can be found in Publications module.
 
 ---
