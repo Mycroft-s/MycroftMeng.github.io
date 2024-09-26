@@ -33,13 +33,14 @@ redirect_from:
 
 ---
 
-## Learning and working Experiences
+## Learning and Wroking Experiences
+- **Computer Science and Engineering, NYU Tandon** (09/2024—present)  
 - **Prouduct development department back-end group, Qingteng** (03/2024—07/2024)  
 - **Data Mining & Security (DMS) Lab, BJUT** (09/2022—present)  
-- **Beijing Key Laboratory of Clinical Epidemiology, Capital Medical University** (09/2021—present)  
+- **Beijing Key Laboratory of Clinical Epidemiology, Capital Medical University** (09/2021—08/2024)  
 - **Capital Health Management and Policy Research Base** (09/2012—09/2022)  
 - **Biomedical Program, Faculty of Environment and Life, BJUT** (04/2021—09/2021)  
-- **CHCN-BTH Research Group, Capital Medical University** (07/2020—12/2020)  
+- **CHCN-BTH Research Group, Capital Medical University** (07/2020—12/2020)
 
 ---
 
