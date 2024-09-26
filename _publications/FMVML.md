@@ -10,13 +10,13 @@ sources while addressing multiple correlated labels. However, in
 real-world applications, concerns over data confidentiality and
 security often prevent data exchange or fusion across different
 sources, leading to the challenging issue of data islands. To tackle
-this problem, we propose a general federated multi-view multilabel classification method, FMVML, which integrates a novel
+this problem, we propose a general federated multi-view multi-label classification method, FMVML, which integrates a novel
 multi-view multi-label classification technique into a federated
 learning framework. This approach enables cross-view feature
 fusion and multi-label semantic classification while preserving the
 data privacy of each independent source. Within this federated
 framework, we first extract view-specific information from each
-individual client to capture unique characteristics and then consolidate consensus information from different views on the global
+individual client to capture unique characteristics and then consolidate consensus information from different views on the global
 server to represent shared features. Unlike previous methods, our
 approach enhances cross-view fusion and semantic expression by
 jointly capturing both feature and semantic aspects of specificity
