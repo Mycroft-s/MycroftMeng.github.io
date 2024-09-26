@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Welcome to Mycroft's world"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 # Mycroft Meng
 
 **Tel**: +1-718-306-3737  
