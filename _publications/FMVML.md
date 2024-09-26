@@ -25,7 +25,7 @@ combining the view-specific predictions from individual clients
 and the consensus predictions from the global server. Extensive experiments across various applications demonstrate that
 FMVML fully leverages multi-view data in a privacy-preserving
 manner and consistently outperforms state-of-the-art methods.'
-date: 2023
+date: 2023-01-01
 venue: 'IEEE Transactions on Big Data'
 paperurl: 'http://academicpages.github.io/files/federated-mvml.pdf'
 citation: 'Meng, H., Lyu, G., Feng, S., Wang, Y., & Yang, Z. (2023). "Federated Multi-view Multi-Label Classification." <i>IEEE Transactions on Big Data</i> (major revision).'
