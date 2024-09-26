@@ -119,5 +119,5 @@ Meng, H., Yu, F., Liu, H., Yan, C., & Zhang, L. (2017). "Research on Status Quo 
 
 - **Programming Languages**: Java, C/C++, JavaScript, HTML, Node.js, TypeScript, Python, R, Matlab, CSS  
 - **Software Packages**: SPSS, Excel, Citespace, NoteExpress, Photoshop, Wireshark, Docker  
-- **Languages**: English (CET4 562, GRE 332)  
+- **Languages**: English (Toefl 102, GRE 332)  
 - **Hobbies**: Photography, Driving, Public Speaking, Swimming, Badminton, Football  
