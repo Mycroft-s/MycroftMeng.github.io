@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Mycroft Meng"
+  pronouns         :  "he/his"  
+  bio              : "Mycroft Meng is currently a first year graduate student in the NYU Tandon School of Engineering. His main research interests include federated learning, multi-view multi-label learning, LLMs, RAG, etc.r"
+  location         : "New York"
+  employer         : "New York University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mycrofthd@gmail.com / hm3424@nyu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
