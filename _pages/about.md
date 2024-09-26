@@ -13,7 +13,7 @@ redirect_from:
 **Address**: #111 Lawrence St, Brooklyn, New York, 11201  
 Hongdao Meng is currently a first year graduate student in the NYU Tandon School of Engineering.
 His main research interests include federated learning, multi-view multi-label learning, LLMs, RAG, etc.
-You can find his CV in the CV module. ((../assets/CV_Meng Hongdao_final.pdf))
+You can find his CV in the CV module. 
 
 ---
 ## Education
