@@ -106,7 +106,7 @@ redirect_from:
 Meng, H., Lyu, G., Feng, S., Wang, Y., & Yang, Z. (2023). "Federated Multi-view Multi-Label Classification." *IEEE Transactions on Big Data*. (Major revision)
 
 ### **Susceptibility Genes Identification and Risk Evaluation Model Construction by Transcriptome-wide Association Analysis for Salt Sensitivity of Blood Pressure: The EpiSS Study**  
-Qi, H., Xie, Y., Yang, X., Xia, J., Liu, K., Zhang, F., Peng, W., Wen, F., Li, B., Zhang, B., Yao, X., Li, B., Meng, H., Shi, Z., Yang, W., & Zhang, L. (2024). "Susceptibility Genes Identification and Risk Evaluation Model Construction by Transcriptome-wide Association Analysis for Salt Sensitivity of Blood Pressure: The EpiSS Study." *BMC Genomics*. (Accepted)
+Qi H, Xie YY, Yang XJ, Xia J, Liu K, Zhang FX, Peng WJ, Wen FY, Li BX, Zhang BW, Yao XY, Li BY, Meng HD, Shi ZM, Wang Y, Zhang L. Susceptibility gene identification and risk evaluation model construction by transcriptome-wide association analysis for salt sensitivity of blood pressure. BMC Genomics. 2024 Jun 18;25(1):612. doi: 10.1186/s12864-024-10409-9
 
 ### **Visualized Quantitative Analysis of Hot Research Topics about Medical Information Security in China in the Internet Age**  
 Meng, H., & Meng, K. (2023). "Visualized Quantitative Analysis of Hot Research Topics about Medical Information Security in China in the Internet Age." *Chinese Hospital Management*. (Under review)
