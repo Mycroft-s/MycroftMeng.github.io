@@ -33,7 +33,8 @@ redirect_from:
 
 ---
 
-## Extracurricular Learning Experiences
+## Learning and working Experiences
+- **Prouduct development department back-end group, Qingteng** (03/2024—07/2024)  
 - **Data Mining & Security (DMS) Lab, BJUT** (09/2022—present)  
 - **Beijing Key Laboratory of Clinical Epidemiology, Capital Medical University** (09/2021—present)  
 - **Capital Health Management and Policy Research Base** (09/2012—09/2022)  
@@ -51,20 +52,24 @@ redirect_from:
 
 ## Internship & Research Experiences
 
-### **AI Algorithm Engineer**, TAL Education Group  
+### **AI Algorithm Engineer**,  Prouduct development department back-end group, Qingteng  
 *Duration*: 03/2024—07/2024  
 - Researched LLM, Transformer, and Retrieval Augmented Generation (RAG)
 - Key player in completing the RAG part of the LLM
 - Updated and optimized bgem3 hybrid search
-
+- Learned the communication and cooperation in real work and the workflow on gitlab
+- 
 ### **Researcher & 1st Author**, Data Mining & Security (DMS) Lab, BJUT  
 *Duration*: 09/2022—07/2024  
-- Researched federated learning and multi-view multi-label machine learning
-- Proposed and verified a new FMVML method
+- Researched federated learning, multi-view multi-label machine learning in the lab
+- Acquired skills in literature review and academic writing, learned various mathematical optimisation methods and testing 
+   methods, and became proficient in using Python, Matlab, Latex
+- Proposed a new method of FMVML and verified the model performance through experiments
+- Wrote papers and helped apply for patents.
 
-### **Web Designer**, Baidu Map API  
+### **Web Designer**,  Realization of Algorithm for Traveling Salesmen Based on Baidu Map API  
 *Duration*: 09/2022—12/2022  
-- Developed a navigation system with CSS, HTML, and JavaScript based on Baidu Map API
+-  Used the front-end technologies CSS, HTML, JavaScript to realize a navigation system that was capable of marking multiple points for regular navigation and traveling salesman algorithm on the global map based on Baidu Map API
 
 ### **Researcher & 1st Author**, Beijing National Science Foundation  
 *Project*: Research on Organizational Capacity of Public Hospitals and Impact Mechanism of Their Maturity on Hospital Efficiency (Project No. 9222004)  
@@ -76,6 +81,7 @@ redirect_from:
 *Duration*: 09/2021—present  
 - Conducted multi-omics data integration methods based on machine learning
 - Contributed to academic literature and mastered R software for prediction model construction
+-  Realization of Algorithm for Traveling Salesmen Based on Baidu Map API
 
 ### **Project Leader**, Complicated Page Analysis Based on Machine Learning, BJUT Spark Program  
 *Duration*: 09/2020—12/2021  
@@ -89,7 +95,7 @@ redirect_from:
 ### **Leader & Researcher**, CHCN-BTH Research Group, National Key Research and Development Plan  
 *Project*: A Cohort Study of Natural Population with Chronic Diseases in Living Communities of the Beijing-Tianjin-Hebei Region (Project No. 2016YFC0900603)  
 *Duration*: 07/2020—12/2020  
-- Assisted in recruiting volunteers and organizing biological specimen repositories
+- Assisted in recruiting more than volunteers and organizing biological specimen repositories
 
 ---
 
