@@ -28,7 +28,7 @@ author:
   location         : "New York"
   employer         : "New York University"
   uri              : # URL
-  email            : "mycrofthd@gmail.com / hm3424@nyu.edu" 
+  email            : "mycrofthd@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/%E5%AE%8F%E9%81%93-%E5%AD%9F-70222b306/"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
