@@ -86,5 +86,5 @@ You can find his CV here:(../assets/CV_Meng Hongdao_final.pdf)
 
 - **Programming Languages**: Java, C/C++, JavaScript, HTML, Node.js, TypeScript, Python, R, Matlab, CSS  
 - **Software Packages**: SPSS, Excel, Citespace, NoteExpress, Photoshop, Wireshark, Docker  
-- **Languages**: English (CET4 562, GRE 332)  
+- **Languages**: English (Toefl 102, GRE 332)  
 - **Hobbies**: Photography, Driving, Public Speaking, Swimming, Badminton, Football  
