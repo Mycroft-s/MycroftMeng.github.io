@@ -3,9 +3,11 @@
 **Tel**: +1-718-306-3737  
 **Email**: [hm3424@nyu.edu](mailto:hm3424@nyu.edu) / [mycrofthd@gmail.com](mailto:mycrofthd@gmail.com)  
 **Address**: #111 Lawrence St, Brooklyn, New York, 11201  
+Hongdao Meng is currently a first year graduate student in the NYU Tandon School of Engineering.
+His main research interests include federated learning, multi-view multi-label learning, LLMs, RAG, etc.
+You can find his CV here:(../assets/CV_Meng Hongdao_final.pdf)
 
 ---
-
 ## Educational Background
 
 **NYU Tandon School of Engineering**  
