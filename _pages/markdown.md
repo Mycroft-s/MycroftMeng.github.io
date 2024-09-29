@@ -19,7 +19,7 @@ redirect_from:
 📍 **Address**: #111 Lawrence St, Brooklyn, New York, 11201
 
 ## LinkedIn
-🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/%E5%AE%8F%E9%81%93-%E5%AD%9F-70222b306/)
+🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mycroft-meng-70222b306/)
 
 ## Instagram
 📷 **Instagram**: [Instagram Profile](https://www.instagram.com/mycrofthd/)
